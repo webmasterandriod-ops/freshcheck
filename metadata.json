@@ -1,0 +1,6 @@
+{
+  "name": "FreshCheck",
+  "description": "A native Android pantry and fridge expiry tracker with smart urgency ranking, shelf-life presets, waste & savings logs, and local-only storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
